@@ -8,7 +8,6 @@ date: 2014-01-01
 location: "Ankara, Turkey"
 ---
 
-* THK University,
   * Calculus II
   * Discrete Mathematics
   * Introduction to Probability Theory
