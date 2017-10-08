@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching_lehigh
 venue: "Lehigh University, Industrial and Systems Engineering Department"
-date: 2008-2010
+year: 2008
 location: "Bethlehem, PA, USA"
 ---
 
