@@ -1,9 +1,10 @@
 ---
 title: "Teaching Assistantship Experience"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate courses"
 permalink: /teaching/teaching_lehigh
 venue: "Lehigh University, Industrial and Systems Engineering Department"
+date: ""
 location: "Bethlehem, PA, USA"
 ---
 
