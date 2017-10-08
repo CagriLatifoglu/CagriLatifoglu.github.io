@@ -7,7 +7,6 @@ venue: "THK University, Industrial Engineering Department"
 date: 2014-01-01
 location: "Ankara, Turkey"
 ---
-
   * Calculus II
   * Discrete Mathematics
   * Introduction to Probability Theory
