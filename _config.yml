@@ -9,8 +9,8 @@
 locale                   : "en-TR"
 title                    : "Dr. Çağrı Latifoğlu"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Dr. Çağrı Latifoğlu"
+description              : &description "Asst. Prof. at TED University"
 url                      : https://cagrilatifoglu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cagrilatifoglu.github.io"
@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Dr. Çağrı Latifoğlu"
   avatar           : "profile.png"
-  bio              : "Asst. Prof. at TED University"
+  bio              : "Dr. Çağrı Latifoğlu received his B.S. and M.S. degrees at Bilkent University Industrial Engineering Department. During his M.S. studies, he worked at AYESAŞ as a Software Quality/Process Engineer. For his PhD studies, he attended Lehigh University at Bethlehem, PA, USA. During his PhD studies, he worked at Air Products and Chemicals as a PhD intern, and at American Airlines as an Operations Research Analyst.  After returning to Turkey, he worked as a Senior Business Analyst / Senior Software Developer at Yapı Kredi R&D. After that, he worked as an Assistant Professor at University of Turkish Aeronautical Association. Currently he is an Asst. Prof. at TED University".
   location         : "Ankara, Turkey"
-  employer         :
+  employer         : "TED University"
   googlescholar    : "https://scholar.google.com.tr/citations?user=ZvKf_YcAAAAJ&hl=en"
   email            :
   uri              :
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0001-7174-6166"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
