@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D in Industrial and Systems Engineering, Lehigh University, Bethlehem, PA, USA, 2012
+* M.S. in Infustrial Engineering, Bilkent University, Ankara, Turkey, 2006
+* B.S. in Industrian Engineering, Bilkent University, Ankara, Turkey, 2003
+
 
 Work experience
 ======
