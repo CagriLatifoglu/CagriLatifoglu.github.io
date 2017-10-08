@@ -32,15 +32,28 @@ Education
 Teaching Experience
 ======
 * TED University, 
-  * Senior Project I and II (Undergraduate), Computational Tools of Industrial Engineers (Undergraduate), Mathematical Modeling and Optimization III (undergraduate), Discrete Evenet Simulation (undergraduate), Supply Chain Management (undergraduate)
+  * Senior Project I and II 
+  * Computational Tools of Industrial Engineers
+  * Mathematical Modeling and Optimization III
+  * Discrete Evenet Simulation
+  * Supply Chain Management (undergraduate)
 * THK University,
-  * Calculus II (Undergraduate), Discrete Mathematics (Undergraduate), Introduction to Probability Theory (Undergraduate), Introduction to Operations Research (Undergraduate, Graduate), Project Management (Graduate), Supply Chain Management (Graduate), Fundamentals of Industrial Engineering (Undergraduate), Production Planning and Control (Undergraduate, Graduate), Operations Research II (Undergraduate)
+  * Calculus II
+  * Discrete Mathematics
+  * Introduction to Probability Theory
+  * Introduction to Operations Research
+  * Project Management
+  * Supply Chain Management
+  * Fundamentals of Industrial Engineering
+  * Production Planning and Control
+  * Operations Research II
+* Lehigh University, ( Teaching Assistant )
+  * Optimization Algorithms and Software
+  * Introduction to Operations Research
 
-* Lehigh University,
-  * Optimization Algorithms and Software (Undergraduate), Introduction to Operations Research (Undergraduate)
-
-* Bilkent University,
-  * Production Planning (TA, Undergraduate), Supply Chain Management (TA, Undergraduate)
+* Bilkent University, ( Teaching Assistant )
+  * Production Planning
+  * Supply Chain Management
 
 Work Experience
 ======
