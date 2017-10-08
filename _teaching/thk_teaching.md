@@ -1,5 +1,5 @@
 ---
-title: "Teaching as an Asst. Prof."
+title: "Teaching as an Asst. Prof. at THK University"
 collection: teaching
 type: "Undergraduate and Graduate Courses"
 permalink: /teaching/thk_teaching
