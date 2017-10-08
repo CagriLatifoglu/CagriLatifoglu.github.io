@@ -29,32 +29,6 @@ Education
 * M.S. in Industrial Engineering, Bilkent University, Ankara, Turkey, 2006
 * B.S. in Industrial Engineering, Bilkent University, Ankara, Turkey, 2003
 
-Teaching Experience
-======
-* TED University, 
-  * Senior Project I and II 
-  * Computational Tools of Industrial Engineers
-  * Mathematical Modeling and Optimization III
-  * Discrete Evenet Simulation
-  * Supply Chain Management (undergraduate)
-* THK University,
-  * Calculus II
-  * Discrete Mathematics
-  * Introduction to Probability Theory
-  * Introduction to Operations Research
-  * Project Management
-  * Supply Chain Management
-  * Fundamentals of Industrial Engineering
-  * Production Planning and Control
-  * Operations Research II
-* Lehigh University, ( Teaching Assistant )
-  * Optimization Algorithms and Software
-  * Introduction to Operations Research
-
-* Bilkent University, ( Teaching Assistant )
-  * Production Planning
-  * Supply Chain Management
-
 Work Experience
 ======
 * Summer 2015: Research Assistant
@@ -93,7 +67,29 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Teaching Experience Details
+======
+* TED University, 
+  * Senior Project I and II 
+  * Computational Tools of Industrial Engineers
+  * Mathematical Modeling and Optimization III
+  * Discrete Evenet Simulation
+  * Supply Chain Management
+* THK University,
+  * Calculus II
+  * Discrete Mathematics
+  * Introduction to Probability Theory
+  * Introduction to Operations Research
+  * Project Management
+  * Supply Chain Management
+  * Fundamentals of Industrial Engineering
+  * Production Planning and Control
+  * Operations Research II
+* Lehigh University, ( Teaching Assistant )
+  * Optimization Algorithms and Software
+  * Introduction to Operations Research
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
