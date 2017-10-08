@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Industrial and Systems Engineering, Lehigh University, Bethlehem, PA, USA, 2012
-* M.S. in Infustrial Engineering, Bilkent University, Ankara, Turkey, 2006
-* B.S. in Industrian Engineering, Bilkent University, Ankara, Turkey, 2003
+* M.S. in Industrial Engineering, Bilkent University, Ankara, Turkey, 2006
+* B.S. in Industrial Engineering, Bilkent University, Ankara, Turkey, 2003
 
 
 Work experience
