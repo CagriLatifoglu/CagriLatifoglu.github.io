@@ -10,5 +10,5 @@ location: "Ankara, Turkey"
   * Senior Project I and II 
   * Computational Tools of Industrial Engineers
   * Mathematical Modeling and Optimization III
-  * Discrete Evenet Simulation
+  * Discrete Event Simulation
   * Supply Chain Management
